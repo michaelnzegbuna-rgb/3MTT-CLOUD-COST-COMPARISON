@@ -1,0 +1,8 @@
+Why we chose Azure for our business
+Choosing the right cloud company is about more than just the lowest price. It is also about using what you already own. For a big company that already uses Microsoft software, picking Azure makes much more sense than picking AWS. In our test, we looked at a small app with 4 servers. On AWS, it cost $506.33 every month. On Azure, it only cost $284.00.
+
+The main reason Azure is so much cheaper is a special deal called the Azure Hybrid Benefit. Most big companies already pay for Windows software at their office. Azure lets those companies use those same licenses in the cloud. This means the company does not have to pay for the Windows "rental fee" twice. AWS is a great service, but it does not let you save money this way for Windows servers. On AWS, you have to pay the full "store price" for every hour your server is running.
+
+There are other reasons to pick Azure, too. If a company already uses tools like Office 365 or Outlook, Azure feels very familiar. It is like using a computer you already know how to work. This means the workers do not have to spend a long time learning a new system. We also checked the cost of sending data between servers. Both companies charge the exact same price for this ($0.01 per GB). Since the networking price is the same, the big savings come from the server licenses.
+
+By picking Azure, the company saves over $2,600 every year. That is a lot of money for a small project! Azure is the clear winner for our business. It helps us save money by using what we already have. It also keeps things simple for our team. Picking Azure is the smartest way to grow our web app while keeping our costs as low as possible.
